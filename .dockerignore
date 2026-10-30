@@ -1,0 +1,8 @@
+.venv
+.git
+__pycache__
+.pytest_cache
+test_app.py
+requirements-dev.txt
+Dockerfile
+.dockerignore
